@@ -4,6 +4,9 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="150" height="150" />
 </p>
 <h1 align="center">🎉 Welcome To Frontend Language 🎉</h1>
+---
+
+<img src="https://ghchart.rshah.org/2016rshah" alt="2016rshah's Github chart" />
 
 ---
 
