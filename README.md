@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">🎉 Welcome To Frontend Language 🎉</h1>
 
-<img src="data:image/svg+xml;utf8,<svg height='4' width='100%'><line x1='0' y1='2' x2='100%' y2='2' style='stroke:red;stroke-width:4' /></svg>" />
+<img src="https://via.placeholder.com/800x2/00ffcc/00ffcc" alt="custom line" />
 
 ---
 
