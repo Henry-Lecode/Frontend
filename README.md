@@ -5,8 +5,6 @@
 </p>
 <h1 align="center">🎉 Welcome To Frontend Language 🎉</h1>
 
-<img src="https://via.placeholder.com/800x2/00ffcc/00ffcc" alt="custom line" />
-
 ---
 
 <h2 align="center">🎖️ Frontend is not just technology — it's art and user emotion 🎖️</h2>
