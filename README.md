@@ -7,4 +7,4 @@
 
 ---
 
-<h2 align="center">🎖️🎖️ Keep coding, keep learning — the bugs will fear you one day 🎖️🎖️</h2>
+<h2 align="center">🎖️ Frontend is not just technology — it's art and user emotion 🎖️</h2>
