@@ -7,8 +7,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-contribution-grid-snake.svg)
-
----
-
 <h2 align="center">🎖️ Frontend is not just technology — it's art and user emotion 🎖️</h2>
