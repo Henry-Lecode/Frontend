@@ -4,13 +4,10 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Javascript.jpg?raw=true" width="150" height="150" />
 </p>
 <h1 align="center">🎉 Welcome To Frontend Language 🎉</h1>
-
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Blueline.jpg?raw=true" width="1200" height="4" />
 </p>
-
 <h1 align="center">....................</h1>
-
 <p align="center">
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Yellowline.jpg?raw=true" width="1200" height="4" />
 </p>
