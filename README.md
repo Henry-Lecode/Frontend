@@ -16,4 +16,4 @@
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Yellowline.jpg?raw=true" width="1200" height="4" />
 </p>
 
-<h2 align="center">🎖️ Frontend is not just technology — it's art and user emotion 🎖️</h2>
+<h2 align="center">🎖️ Frontend Is Not Just Technology — It's Art And User Emotion 🎖️</h2>
